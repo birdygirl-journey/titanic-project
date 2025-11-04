@@ -26,7 +26,7 @@ This collection contains beginner-to-intermediate level data science and machine
 
 ---
 
-### 🎓 Student Performance Prediction
+### 🎓 Student Performance Prediction 
 - **Goal:** Predict whether a student will pass or fail based on study hours and attendance.
 - **Techniques:** Logistic Regression.
 - **Libraries Used:** `pandas`, `scikit-learn`
@@ -46,7 +46,7 @@ This collection contains beginner-to-intermediate level data science and machine
 
 ---
 
-## 📈 Example Output (House Price Prediction)
+## 📈Example Output (House Price Prediction)
 ```bash
 Mean Absolute Error: 19999.99
 Mean Squared Error: 399999999.99
